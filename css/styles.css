@@ -693,6 +693,8 @@ img {
   border-bottom: 1px solid var(--border-color);
 }
 
+/* Модальне вікно */
+
 .backdrop {
   width: 100%;
   height: 100%;
